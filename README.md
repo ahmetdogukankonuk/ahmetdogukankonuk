@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Ahmet Dogukan Konuk, a full-time full-stack freelance developer 👨‍💻 working for Burak Dolek Agency 🚀
 
 
